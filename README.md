@@ -10,6 +10,6 @@
 
 ### MVVM, Live Data, Retrofit, RxJava, Data Binding <br/> <br/>
 
-## Screenshots
+## **Screenshots**
 
 ![screenshot1](https://user-images.githubusercontent.com/111344082/184909053-aae1e478-c20c-4088-9a2d-997346badcd3.jpeg)
