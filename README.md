@@ -8,7 +8,7 @@
 
 ## **Used**
 
-### MVVM, Live Data, Retrofit, RxJava, Data Binding <br/> <br/>
+### MVVM, Live Data, Data Binding, Retrofit, RxJava <br/> <br/>
 
 ## **Screenshots**
 
